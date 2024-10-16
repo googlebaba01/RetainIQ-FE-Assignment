@@ -5,7 +5,6 @@ This project is a React application built with Material UI. It features a user-f
 ## Getting Started
 
 Follow these steps to set up and run the project on your local machine.
-- cd FE-Assignment
 - npm install
 - npm run dev
 
