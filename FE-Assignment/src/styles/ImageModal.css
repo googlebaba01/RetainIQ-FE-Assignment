@@ -1,0 +1,30 @@
+.modal-image-container {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .modal-image-container img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .edit-image-btn {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .edit-image-btn:hover {
+    background-color: #1565c0;
+  }
+  
