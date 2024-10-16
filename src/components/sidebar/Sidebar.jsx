@@ -1,6 +1,6 @@
 import { FaUser, FaCog, FaChartBar } from 'react-icons/fa';
 import { FaFacebook, FaShoppingCart } from 'react-icons/fa'; // Import Meta (Facebook) and Shopping Cart icons
-import "../../styles/sideBar.css";
+import "../../styles/Sidebar.css";
 
 
 const Sidebar = () => {
